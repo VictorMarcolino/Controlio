@@ -1,0 +1,4 @@
+[submodule "tcc"]
+	path = tcc
+	url = git@github.com:VictorMarcolino/document-tcc.git
+	branch = master
