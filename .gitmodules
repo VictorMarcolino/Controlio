@@ -5,6 +5,8 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:VictorMarcolino/controlio-app.git
+	branch = main
 [submodule "backend"]
 	path = backend
 	url = git@github.com:VictorMarcolino/controlio-backend.git
+	branch = master
